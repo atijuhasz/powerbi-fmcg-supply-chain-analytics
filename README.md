@@ -127,10 +127,9 @@ Product Customer Geo  Category  Region
 
 ## How to View
 
-**Option A — Power BI Service (recommended)**
-👉 [View the live report](#) *(add your Publish to Web link here)*
 
-**Option B — Power BI Desktop**
+
+** Power BI Desktop**
 1. Download `fmcg_project.pbix` from this repo
 2. Open in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 3. All data is embedded — no source files needed
