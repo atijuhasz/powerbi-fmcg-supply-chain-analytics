@@ -147,14 +147,13 @@ Product Customer Geo  Category  Region
 │   └── Fact_Budget.csv             # 8,510-row programmatic budget plan
 ├── README.md
 └── screenshots/
-    ├── 01_executive_summary.png
-    ├── 02_sales_performance.png
-    ├── 03_supply_chain.png
-    ├── 04_finance_profitability.png
-    └── 05_cost_margin_analysis.png
+    ├── 01_executive_summary.png ![Executive Summary](screenshots/01_executive_summary.png)
+    ├── 02_sales_performance.png ![Sales Performance](screenshots/02_sales_performance.png)
+    ├── 03_supply_chain.png ![Supply Chain](screenshots/03_supply_chain.png)
+    ├── 04_finance_profitability.png ![Finance Profitability](screenshots/04_finance_profitability.png)
+    └── 05_cost_margin_analysis.png ![Cost Margin Analysis](screenshots/05_cost_margin_analysis.png)
 ```
 
-> **Screenshots:** take one screenshot per report page and drop them into a `/screenshots` folder in the repo — GitHub will render them inline if you add image links to this README, which makes a much stronger first impression than a blank folder.
 
 ---
 
@@ -169,4 +168,4 @@ A few decisions worth documenting for transparency:
 
 ---
 
-*Built as an end-to-end BI portfolio project demonstrating data modeling, Power Query, DAX, and dashboard design skills for an FMCG analyst role.*
+*Built as an end-to-end BI portfolio project demonstrating data modeling, Power Query, DAX, and dashboard design skills.
