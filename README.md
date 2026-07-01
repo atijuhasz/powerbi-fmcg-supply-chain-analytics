@@ -131,7 +131,7 @@ Product Customer Geo  Category  Region
 👉 [View the live report](#) *(add your Publish to Web link here)*
 
 **Option B — Power BI Desktop**
-1. Download `NorthStar_FMCG_BI.pbix` from this repo
+1. Download `fmcg_project.pbix` from this repo
 2. Open in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 3. All data is embedded — no source files needed
 
@@ -141,19 +141,35 @@ Product Customer Geo  Category  Region
 
 ```
 /
-├── NorthStar_FMCG_BI.pbix          # Main Power BI file
+├── fmcg_project.pbix          # Main Power BI file
 ├── data/
 │   ├── product_fmcg_mapping.csv    # 118-row SKU → FMCG label mapping table
 │   └── Fact_Budget.csv             # 8,510-row programmatic budget plan
 ├── README.md
 └── screenshots/
-    ├── 01_executive_summary.png ![Executive Summary](screenshots/01_executive_summary.png)
-    ├── 02_sales_performance.png ![Sales Performance](screenshots/02_sales_performance.png)
-    ├── 03_supply_chain.png ![Supply Chain](screenshots/03_supply_chain.png)
-    ├── 04_finance_profitability.png ![Finance Profitability](screenshots/04_finance_profitability.png)
-    └── 05_cost_margin_analysis.png ![Cost Margin Analysis](screenshots/05_cost_margin_analysis.png)
+    ├── 01_executive_summary.png
+    ├── 02_sales_performance.png 
+    ├── 03_supply_chain.png 
+    ├── 04_finance_profitability.png 
+    └── 05_cost_margin_analysis.png 
 ```
 
+## Screenshots
+
+### Executive Summary
+![Executive Summary](screenshots/01_executive_summary.png)
+
+### Sales Performance
+![Sales Performance](screenshots/02_sales_performance.png)
+
+### Supply Chain / Logistics
+![Supply Chain](screenshots/03_supply_chain.png)
+
+### Finance / Profitability
+![Finance Profitability](screenshots/04_finance_profitability.png)
+
+### Cost & Margin Analysis
+![Cost Margin Analysis](screenshots/05_cost_margin_analysis.png)
 
 ---
 
